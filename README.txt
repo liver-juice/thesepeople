@@ -1,0 +1,1 @@
+Who are these people, you ask? Well jared these people are fabricated entities. They serve no purpose. Yet here they are. Each one is as unique as you or me. Perhaps one day they will find resolve.

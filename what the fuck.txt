@@ -1,0 +1,28 @@
+generate a random person.
+
+full name, parents, location, career, age, pets, criminal history, owned assets.
+
+randomly generate a human being on each click, start SIMPLE. name, age, career.
+
+how? each person should obviously be an object right.
+
+person[birthYear]
+
+so every "person" is an instance of the person class, with its own reference name but how.
+
+let person = {
+    firstName = genFirstName;
+    lastName = genLastName;
+    name = firstName 
+    gender = gender;
+    age = age;
+    career = career;
+}
+
+
+
+-- perhaps to turn into bitlife-like game later with generated characters.
+
+so what do i want.
+what i want. is when i press a button, i want it to generate a new person for me.
+each person is an object, with a bunch of assets that are generated when its created.
